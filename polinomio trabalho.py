@@ -1,7 +1,7 @@
 def polinomiar (v):
-    x
-    y
-    z
+    Carla
+    joan
+    pe
     
     
     
